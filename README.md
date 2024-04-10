@@ -1,6 +1,6 @@
 # Sistema de Apoyo para el Juego Scrabble
 
-![Scrabble](scrabble_image.png)
+![Scrabble]([scrabble_image.png](https://www.hola.com/mascotas/20180925130054/consejos-para-cuidar-a-un-gatito-recien-nacido-cs/))
 
 ## Descripción del Proyecto
 
